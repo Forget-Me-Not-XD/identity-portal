@@ -1,0 +1,8 @@
+This is the setup of the dashboard that will basically be the loading
+bay for all the apps I'm going to be building, so this is just the
+start of it all. This will be updated and changed as things progress.
+
+** To Start What Exists **
+docker run postgres
+npm install
+npx prisma migrate dev
